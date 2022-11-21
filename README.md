@@ -27,6 +27,7 @@ You will get the following window.
 ## 5) Add the following details in the window.
 
 ``Acrechain Mainnet``
+
 ``https://rpc2-acre.synergynodes.com``
 ``9052``
 ``ACRE``
