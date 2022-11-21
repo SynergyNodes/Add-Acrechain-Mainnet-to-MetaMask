@@ -19,3 +19,15 @@ This will open MetaMask wallet in full screen
 ## 4) Click on ``Add a network manually``.
 
 <img src="https://www.synergynodes.com/images/acrechain-metamask/Acrechain-Metamask-04-min.png" width="750">
+
+You will get the following window.
+
+<img src="https://www.synergynodes.com/images/acrechain-metamask/Acrechain-Metamask-05-min.png" width="750">
+
+## 5) Add the following details in the window.
+
+``Acrechain Mainnet``
+``https://rpc2-acre.synergynodes.com``
+``9052``
+``ACRE``
+``https://acreblockexplorer.jet-node.com/``
