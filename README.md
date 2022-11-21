@@ -37,3 +37,5 @@ Currency symbol: ``ACRE``
 Block explorer URL: ``https://acreblockexplorer.jet-node.com/``
 
 <img src="https://www.synergynodes.com/images/acrechain-metamask/Acrechain-Metamask-06-min.png" width="750">
+
+## 6) Click ``Save`` button.
