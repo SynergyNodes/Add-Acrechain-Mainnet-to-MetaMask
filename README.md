@@ -28,15 +28,17 @@ You will get the following window.
 
 ## 5) Add the following details in the window.
 
+##NOTE : We have updated the following with latest information. Please use the following info.
+
 Network name: ``Acrechain Mainnet``
 
-New RPC URL: ``https://rpc2-acre.synergynodes.com``
+New RPC URL: ``https://acre01.mindheartsoul.org``
 
 Chain ID: ``9052``
 
 Currency symbol: ``ACRE``
 
-Block explorer URL: ``https://acreblockexplorer.jet-node.com/``
+Block explorer URL: ``https://acrescout.mindheartsoul.org/``
 
 <img src="https://www.synergynodes.com/images/acrechain-metamask/Acrechain-Metamask-06-min.png" width="750">
 
