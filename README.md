@@ -40,6 +40,16 @@ Currency symbol: ``ACRE``
 
 Block explorer URL: ``https://acrescout.mindheartsoul.org/``
 
+```
+# List of available RPCs:
+
+https://evm.acrescan.com/
+https://rpc2-acre.synergynodes.com/
+https://jsonrpc.acre.nodestake.top/
+https://jsonrpc-acre.d-stake.xyz/
+https://mainnet-acre-evm.konsortech.xyz/
+```
+
 <img src="https://www.synergynodes.com/images/acrechain-metamask/Acrechain-Metamask-06-min.png" width="750">
 
 ## 6) Click ``Save`` button.
