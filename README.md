@@ -1,12 +1,12 @@
 # Adding Acrechain Mainnet (Arable Protocol) to MetaMask wallet
 
-[![Adding Acrechain Mainnet to MetaMask wallet](https://backups.synergynodes.com/youtube/Acrechain-Mainnet-MetaMask-Youtube.jpg)](https://youtu.be/tbc2WFoFDVc)
+[![Adding Acrechain Mainnet to MetaMask wallet](https://backups.synergynodes.com/youtube/Acrechain-Mainnet-MetaMask-Youtube.jpg)](https://youtu.be/tbc2WFoFDVc)SX
 
 You can follow these steps in Google Chrome, Brave browser or any other browser which supports MetaMask wallet extension. 
 
 ## 1) Open MetaMask wallet, click on three dots at the right side and click on ``Expand view``.
 
-<img src="https://www.synergynodes.com/images/acrechain-metamask/Acrechain-Metamask-01-min.png" width="350">
+<img src="https://backups.synergynodes.com/images/acrechain-metamask/Acrechain-Metamask-01-min.png" width="350">
 
 This will open MetaMask wallet in full screen
 
